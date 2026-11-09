@@ -1,7 +1,6 @@
 # TypeScript & OOP Practice
 
-Practice project built for the B8A1 TypeScript & OOP module — covers core types, generics, type narrowing, OOP, and async Promises.
-
+A TypeScript practice project covering core types, generics, type narrowing, OOP, and async Promises
 ## Contents
 
 - **`solutions.ts`** — All 8 problem solutions in one file.
